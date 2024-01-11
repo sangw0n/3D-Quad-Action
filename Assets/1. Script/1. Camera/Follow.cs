@@ -5,7 +5,7 @@ using UnityEngine;
 public class Follow : MonoBehaviour
 {
     public Transform target;
-    public Vector3 offset; // º¸Á¤°ª
+    public Vector3 offset; // ë³´ì •ê°’
 
     private void Update()
     {
